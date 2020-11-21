@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Currently, I development Mobile Apps with React Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">, at [Boa Vista SCPC](https://www.boavistaservicos.com.br/)
 
-:student: I MBA student on the Big Data & Data Science field, at [FIAP](https://www.fiap.com.br/)
+MBA student on the Big Data & Data Science field, at [FIAP](https://www.fiap.com.br/) :student: 
 
 
 ## Languages and Technologies I use daily

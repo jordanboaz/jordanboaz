@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-I am a software engineer, currently working at [BairesDev](https://www.bairesdev.com/), in one of its clients: [Pinterest] (https://pinterest.com/)
+I am a software engineer, currently working at [BairesDev](https://www.bairesdev.com/), in one of its clients: [Pinterest](https://pinterest.com/)
 
 MBA student on the Big Data & Data Science field, at [FIAP](https://www.fiap.com.br/) :student: 
 

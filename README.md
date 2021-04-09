@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I am Jordan Boaz 👋
+### Hi there, I am Jordan 👋
 
 
  [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/jordan-boaz/)
@@ -23,9 +23,17 @@ Here are some ideas to get you started:
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-I am a software engineer, currently working at [BairesDev](https://www.bairesdev.com/), in one of its clients: [Pinterest](https://pinterest.com/)
+Currently working at [BairesDev](https://www.bairesdev.com/), in one of its clients: [Pinterest](https://pinterest.com/)
 
 MBA student on the Big Data & Data Science field, at [FIAP](https://www.fiap.com.br/) :student: 
+
+With a diverse academic and professional background, my focus is to develop the best possible solutions for Web using ReactJS/NextJS and for Android/iOS applications using React Native.
+
+For being curious about new technologies and applications, I try to update myself on the platform's new features, to enrich my vision, and to be able to contribute to the team's evolution. Thinking about it, I try to invest my time in personal development as well.
+
+I seek to develop corporate projects focused on radical innovation. I enjoy inserting the group to new technologies and trends in products.
+
+In my spare time, I'm also a data scientist. 
 
 
 ## Languages and Technologies I use daily

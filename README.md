@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 :man_technologist: <strong>I'm a Software Developer</strong>
 
-Currently, I development Mobile Apps with React Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">, at [Boa Vista SCPC](https://www.boavistaservicos.com.br/)
+I am a software engineer, currently working at [BairesDev](https://www.bairesdev.com/), in one of its clients: [Pinterest] (https://pinterest.com/)
 
 MBA student on the Big Data & Data Science field, at [FIAP](https://www.fiap.com.br/) :student: 
 
